@@ -39,3 +39,5 @@ II. Python Based Method (NS)
 
   It is possible to edit the sequences of rho, degrees and the number of iterations in the sim-NS.py and Real-NS.py files.
   
+  Referecnce:
+  - Tianxi Li, Yun-Jhong Wu, Elizaveta Levina & Ji Zhu (2023) Link Prediction for Egocentrically Sampled Networks, Journal of Computational and Graphical Statistics,     DOI: 10.1080/10618600.2022.2163648(https://www.tandfonline.com/doi/suppl/10.1080/10618600.2022.2163648)
